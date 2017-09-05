@@ -5,9 +5,10 @@
 .input-container {
      min-width: 800px;
 }
-
+ 
  body {
-        background: url('../img/cairo.jpg') no-repeat center center fixed;
+       /*I tried to add this photo but it doesn't work!!*/
+        background: url('user/mahmoudZougheb/train-scheduler/assets/img/cairo.jpg') no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
